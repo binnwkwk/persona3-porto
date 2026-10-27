@@ -20,9 +20,9 @@ export const CREDITS: Credit[] = [
   {
     tag: 'Code',
     title: 'Portfolio source',
-    author: 'binnwkwk/persona3-porto',
+    author: 'david-yappeter/persona3-porto',
     license: 'GitHub repository',
-    url: 'https://github.com/binnwkwk/persona3-porto',
+    url: 'https://github.com/david-yappeter/persona3-porto',
   },
   {
     tag: 'Design',
